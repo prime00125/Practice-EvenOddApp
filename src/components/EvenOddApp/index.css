@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.main {
+  position: absolute;
+  left: 30%;
+  top: 10%;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  height: 500px;
+  justify-content: space-between;
+}
